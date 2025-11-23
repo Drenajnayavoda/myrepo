@@ -1,4 +1,2 @@
-print("Hello appsec world")
-print("Using interpreter:")
-import sys
-print(sys.version)
+name = input("Enter your name: ")
+print(f"Hello appsec world from @{name}")
