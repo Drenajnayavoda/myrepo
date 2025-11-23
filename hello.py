@@ -1,18 +1,18 @@
 import typer
 
+# Updated code style (PEP8 formatting)
 def main(
     name: str,
-    lastname: str = typer.Option("", help="Фамилия пользователя."),
-    formal: bool = typer.Option(False, "--formal", "-f", help="Использовать формальное приветствие."),
+    lastname: str = typer.Option("", help="User lastname."),
+    formal: bool = typer.Option(False, "--formal", "-f", help="Use formal greeting."),
 ):
-    """
-    Говорит "Привет" пользователю, опционально используя фамилию и формальный стиль.
-    """
+    """Greets the user."""
     if formal:
-        print(f"Добрый день, {name} {lastname}!")
+        print(f"Good day, {name} {lastname}!")
     else:
-        print(f"Привет, {name}!")
+        print(f"Hello, {name}!")
 
 if __name__ == "__main__":
     typer.run(main)
+
 # Комментарий: изменение комментария
