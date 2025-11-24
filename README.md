@@ -94,19 +94,15 @@
 
 <img width="642" height="298" alt="image" src="https://github.com/user-attachments/assets/6fc6add6-1fbd-42bb-87b1-5034c2d79b11" />
 
+<img width="642" height="298" alt="image" src="https://github.com/user-attachments/assets/6345a2ba-45c0-48ba-aad4-0e21a62a6b16" />
+
 17. Сделайте commit и опубликуйте изменения в ветке patch2
 
-<img width="642" height="298" alt="image" src="https://github.com/user-attachments/assets/6345a2ba-45c0-48ba-aad4-0e21a62a6b16" />
+<img width="656" height="298" alt="image" src="https://github.com/user-attachments/assets/2050bd68-2f07-4993-8a0e-ce8d7ea45981" />
 
 18. Убедитель, что пропали конфликтны.
 
 <img width="540" height="514" alt="image" src="https://github.com/user-attachments/assets/f2084249-7502-4f67-96c7-002c5669d2a3" />
-
----------------
-
-<img width="656" height="298" alt="image" src="https://github.com/user-attachments/assets/2050bd68-2f07-4993-8a0e-ce8d7ea45981" />
-
----------------
 
 8. Создание отчета + результаты
 
@@ -117,6 +113,7 @@
 <img width="936" height="610" alt="image" src="https://github.com/user-attachments/assets/1e1f91a9-d64d-42cd-a5e0-9b68f6f6a6e7" />
 
 ---------------
+
 
 
 
