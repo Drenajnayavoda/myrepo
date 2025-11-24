@@ -114,12 +114,3 @@
 <img width="468" height="305" alt="image" src="https://github.com/user-attachments/assets/1e1f91a9-d64d-42cd-a5e0-9b68f6f6a6e7" />
 
 ---------------
-
-<img width="468" height="256" alt="image" src="https://github.com/user-attachments/assets/4c5ad53c-d77c-4e7d-91f5-5679d499310c" />
-
----------------
-
-
-
-
-
