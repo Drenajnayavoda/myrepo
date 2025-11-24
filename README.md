@@ -14,47 +14,51 @@
 
 <img width="654" height="322" alt="image" src="https://github.com/user-attachments/assets/84c029a3-731f-4ed7-b119-445dae6c7d2e" />
 
----------------
+2. Авторизуйтесь и спользуйте GitHub CLI для создания удаленного репозитория
 
 <img width="588" height="188" alt="image" src="https://github.com/user-attachments/assets/3a846695-cba8-40fd-90c7-4688fee00f31" />
 
 ---------------
 
-2. Создание репозитория
+3. Проинициализируйте репозиторий
 
 <img width="700" height="248" alt="image" src="https://github.com/user-attachments/assets/fb30faa0-665a-465c-81fe-c9395e895f82" />
 
----------------
+4. Создайте пустой README.md
 
 <img width="670" height="62" alt="image" src="https://github.com/user-attachments/assets/1795f718-c8de-40ed-bfdf-51e32605dbe8" />
 
----------------
+5. В локальном репозитории и сделайте commit
+
+<img width="574" height="79" alt="Снимок экрана 2025-11-24 в 17 25 55" src="https://github.com/user-attachments/assets/3bbd1f1d-9917-4cd2-af93-3b200104d148" />
+
+6. Используйте указание URL своего созданного репозитория для присвоения ветки master статуса origin и запушить коммит
 
 <img width="614" height="168" alt="image" src="https://github.com/user-attachments/assets/af2b6bdf-aefa-44a9-92ca-3a8dc48e947b" />
 
 ---------------
 
-3. Создание hello.py
+7. Создайте файл hello.py в локальном репозитории. Реализуйте Hello appsecworld на языке python используя несколько интерпретаторов с "грязным" кодом
 
 <img width="606" height="96" alt="image" src="https://github.com/user-attachments/assets/a9ad6e45-c76d-4bf2-8e36-0d44d5f936d9" />
 
----------------
+8. Сделайте commit с флагом -S
 
 <img width="544" height="274" alt="image" src="https://github.com/user-attachments/assets/c0c409f8-c867-41cc-be77-84ace978ee4b" />
 
 ---------------
 
-4. Изменить код — запрос имени пользователя
+9. Измените исходный код, что бы скрипт запрашивал имя пользователя и выводил Helloappsec world from @name
 
 <img width="504" height="58" alt="image" src="https://github.com/user-attachments/assets/aa1c1b0b-d515-4d74-86d4-7a1dda8d51be" />
 
----------------
+10. Сделайте commit с флагом -S и сделайте публикацию в удаленный репозиторий.Проверьте вывод истории изменений
 
 <img width="710" height="274" alt="image" src="https://github.com/user-attachments/assets/0388c4c6-d9d3-4cb6-acd9-41c7700e555a" />
 
 ---------------
 
-5. Работа с patch1
+11. В локальном репозитории создайте ветку patch1 и внесите изменения исправлению кода и модернизации до следующего вида, что бы код был рабочим. Сделайте публикацию своего commit с флагом -S в удаленный репозиторий:
 
 <img width="814" height="620" alt="image" src="https://github.com/user-attachments/assets/9d504313-cc81-4063-b11b-1880bf096975" />
 
@@ -105,3 +109,4 @@
 <img width="936" height="610" alt="image" src="https://github.com/user-attachments/assets/1e1f91a9-d64d-42cd-a5e0-9b68f6f6a6e7" />
 
 ---------------
+
